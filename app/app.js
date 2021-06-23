@@ -47,5 +47,4 @@ class MyApp {
     openPage(page) {
         this.nav.setRoot(page.component);
     }
-
 }
